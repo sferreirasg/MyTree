@@ -10,7 +10,7 @@ public class MyTree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Git, from branch bug#1234 !!");	
+		System.out.println("Hello Git, from branch bug#12345 !!");	
 		int i, j;
 
 		for(i=1;i<=10;i++)
@@ -24,6 +24,7 @@ public class MyTree {
 					System.out.print("1");
 			}
 			System.out.println();
+		
 		}
 		
 		
